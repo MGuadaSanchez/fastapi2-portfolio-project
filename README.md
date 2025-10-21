@@ -50,8 +50,8 @@ El proyecto sigue una arquitectura con separación de responsabilidades:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd NOMBRE_DEL_PROYECTO
+git clone https://github.com/MGuadaSanchez/fastapi2-portfolio-project.git
+cd fastapi2-portfolio-project
 ```
 
 ### 2. Crear y activar el entorno virtual
